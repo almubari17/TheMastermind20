@@ -1,0 +1,402 @@
+[
+    {
+        "merged": "C:\\Users\\vaio\\Downloads\\TheMastermindApril24New\\TheMastermindApril24New\\TheMastermind20\\app\\build\\intermediates\\res\\merged\\debug\\layout\\game_local_tab.xml",
+        "source": "C:\\Users\\vaio\\Downloads\\TheMastermindApril24New\\TheMastermindApril24New\\TheMastermind20\\app\\src\\main\\res\\layout\\game_local_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamie\\CS 301\\TheMastermindApril24New\\TheMastermindApril24New\\TheMastermind20\\app\\build\\intermediates\\res\\merged\\debug\\layout\\coder_board.xml",
+        "source": "C:\\Users\\Jamie\\CS 301\\TheMastermindApril24New\\TheMastermindApril24New\\TheMastermind20\\app\\src\\main\\res\\layout\\coder_board.xml"
+    },
+    {
+        "merged": "P:\\OO Design\\TheMastermind20\\app\\build\\intermediates\\res\\merged\\debug\\layout\\game_remote_tab.xml",
+        "source": "P:\\OO Design\\TheMastermind20\\app\\src\\main\\res\\layout\\game_remote_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\almubari17\\Downloads\\TheMastermind1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\coder_start.xml",
+        "source": "C:\\Users\\almubari17\\Downloads\\TheMastermind1\\app\\src\\main\\res\\layout\\coder_start.xml"
+    },
+    {
+        "merged": "P:\\OO Design\\TheMastermind20\\app\\build\\intermediates\\res\\merged\\debug\\layout\\coder_board.xml",
+        "source": "P:\\OO Design\\TheMastermind20\\app\\src\\main\\res\\layout\\coder_board.xml"
+    },
+    {
+        "merged": "C:\\Users\\almubari17\\Downloads\\TheMastermind1_almubari17_jabryant18_jfisher18\\TheMastermind1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\decoder_board.xml",
+        "source": "C:\\Users\\almubari17\\Downloads\\TheMastermind1_almubari17_jabryant18_jfisher18\\TheMastermind1\\app\\src\\main\\res\\layout\\decoder_board.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacob\\OneDrive\\Documents\\Sophomore\\OOD\\TheMastermindApril24\\TheMastermind20\\app\\build\\intermediates\\res\\merged\\debug\\layout\\game_no_gui.xml",
+        "source": "C:\\Users\\Jacob\\OneDrive\\Documents\\Sophomore\\OOD\\TheMastermindApril24\\TheMastermind20\\app\\src\\main\\res\\layout\\game_no_gui.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamie\\CS 301\\TheMastermindApril24New\\TheMastermindApril24New\\TheMastermind20\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loading.xml",
+        "source": "C:\\Users\\Jamie\\CS 301\\TheMastermindApril24New\\TheMastermindApril24New\\TheMastermind20\\app\\src\\main\\res\\layout\\loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaio\\Downloads\\TheMastermind1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\decoder_board.xml",
+        "source": "C:\\Users\\vaio\\Downloads\\TheMastermind1\\app\\src\\main\\res\\layout\\decoder_board.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamie\\CS 301\\TheMastermindApril24New\\TheMastermindApril24New\\TheMastermind20\\app\\build\\intermediates\\res\\merged\\debug\\layout\\game_local_tab.xml",
+        "source": "C:\\Users\\Jamie\\CS 301\\TheMastermindApril24New\\TheMastermindApril24New\\TheMastermind20\\app\\src\\main\\res\\layout\\game_local_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaio\\Downloads\\TheMastermind20\\app\\build\\intermediates\\res\\merged\\debug\\layout\\game_remote_tab.xml",
+        "source": "C:\\Users\\vaio\\Downloads\\TheMastermind20\\app\\src\\main\\res\\layout\\game_remote_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\almubari17\\Downloads\\TheMastermind1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\decoder_board.xml",
+        "source": "C:\\Users\\almubari17\\Downloads\\TheMastermind1\\app\\src\\main\\res\\layout\\decoder_board.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaio\\Downloads\\TheMastermind20\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loading.xml",
+        "source": "C:\\Users\\vaio\\Downloads\\TheMastermind20\\app\\src\\main\\res\\layout\\loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaio\\Downloads\\TheMastermind1 Fixed (1)\\TheMastermind1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\game_config_main.xml",
+        "source": "C:\\Users\\vaio\\Downloads\\TheMastermind1 Fixed (1)\\TheMastermind1\\app\\src\\main\\res\\layout\\game_config_main.xml"
+    },
+    {
+        "merged": "P:\\TheMastermind1_almubari17_jabryant18_jfisher18\\TheMastermind1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\game_config_tabhost.xml",
+        "source": "P:\\TheMastermind1_almubari17_jabryant18_jfisher18\\TheMastermind1\\app\\src\\main\\res\\layout\\game_config_tabhost.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaio\\Downloads\\TheMastermind20\\app\\build\\intermediates\\res\\merged\\debug\\layout\\game_no_gui.xml",
+        "source": "C:\\Users\\vaio\\Downloads\\TheMastermind20\\app\\src\\main\\res\\layout\\game_no_gui.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamie\\CS 301\\TheMastermindApril24New\\TheMastermindApril24New\\TheMastermind20\\app\\build\\intermediates\\res\\merged\\debug\\layout\\game_no_gui.xml",
+        "source": "C:\\Users\\Jamie\\CS 301\\TheMastermindApril24New\\TheMastermindApril24New\\TheMastermind20\\app\\src\\main\\res\\layout\\game_no_gui.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaio\\Downloads\\TheMastermindApril24New\\TheMastermindApril24New\\TheMastermind20\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loading.xml",
+        "source": "C:\\Users\\vaio\\Downloads\\TheMastermindApril24New\\TheMastermindApril24New\\TheMastermind20\\app\\src\\main\\res\\layout\\loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaio\\Downloads\\TheMastermindApril24New\\TheMastermindApril24New\\TheMastermind20\\app\\build\\intermediates\\res\\merged\\debug\\layout\\coder_board.xml",
+        "source": "C:\\Users\\vaio\\Downloads\\TheMastermindApril24New\\TheMastermindApril24New\\TheMastermind20\\app\\src\\main\\res\\layout\\coder_board.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaio\\Downloads\\TheMastermindApril24New\\TheMastermindApril24New\\TheMastermind20\\app\\build\\intermediates\\res\\merged\\debug\\layout\\game_remote_tab.xml",
+        "source": "C:\\Users\\vaio\\Downloads\\TheMastermindApril24New\\TheMastermindApril24New\\TheMastermind20\\app\\src\\main\\res\\layout\\game_remote_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaio\\Downloads\\TheMastermind1 Fixed (1)\\TheMastermind1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\coder_start.xml",
+        "source": "C:\\Users\\vaio\\Downloads\\TheMastermind1 Fixed (1)\\TheMastermind1\\app\\src\\main\\res\\layout\\coder_start.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamie\\CS 301\\TheMastermindApril24New\\TheMastermindApril24New\\TheMastermind20\\app\\build\\intermediates\\res\\merged\\debug\\layout\\game_config_tabhost.xml",
+        "source": "C:\\Users\\Jamie\\CS 301\\TheMastermindApril24New\\TheMastermindApril24New\\TheMastermind20\\app\\src\\main\\res\\layout\\game_config_tabhost.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaio\\Downloads\\TheMastermind20\\app\\build\\intermediates\\res\\merged\\debug\\layout\\coder_board.xml",
+        "source": "C:\\Users\\vaio\\Downloads\\TheMastermind20\\app\\src\\main\\res\\layout\\coder_board.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacob\\OneDrive\\Documents\\Sophomore\\OOD\\TheMastermindApril24\\TheMastermind20\\app\\build\\intermediates\\res\\merged\\debug\\layout\\game_config_main.xml",
+        "source": "C:\\Users\\Jacob\\OneDrive\\Documents\\Sophomore\\OOD\\TheMastermindApril24\\TheMastermind20\\app\\src\\main\\res\\layout\\game_config_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaio\\Downloads\\TheMastermindApril24New\\TheMastermindApril24New\\TheMastermind20\\app\\build\\intermediates\\res\\merged\\debug\\layout\\decoder_board.xml",
+        "source": "C:\\Users\\vaio\\Downloads\\TheMastermindApril24New\\TheMastermindApril24New\\TheMastermind20\\app\\src\\main\\res\\layout\\decoder_board.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaio\\Downloads\\TheMastermind20\\app\\build\\intermediates\\res\\merged\\debug\\layout\\game_config_tabhost.xml",
+        "source": "C:\\Users\\vaio\\Downloads\\TheMastermind20\\app\\src\\main\\res\\layout\\game_config_tabhost.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaio\\Downloads\\TheMastermind1 Fixed (1)\\TheMastermind1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\game_no_gui.xml",
+        "source": "C:\\Users\\vaio\\Downloads\\TheMastermind1 Fixed (1)\\TheMastermind1\\app\\src\\main\\res\\layout\\game_no_gui.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaio\\Downloads\\TheMastermind1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\game_player_list_row.xml",
+        "source": "C:\\Users\\vaio\\Downloads\\TheMastermind1\\app\\src\\main\\res\\layout\\game_player_list_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaio\\Downloads\\TheMastermind1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\game_remote_tab.xml",
+        "source": "C:\\Users\\vaio\\Downloads\\TheMastermind1\\app\\src\\main\\res\\layout\\game_remote_tab.xml"
+    },
+    {
+        "merged": "P:\\TheMastermind1_almubari17_jabryant18_jfisher18\\TheMastermind1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\game_player_list_row.xml",
+        "source": "P:\\TheMastermind1_almubari17_jabryant18_jfisher18\\TheMastermind1\\app\\src\\main\\res\\layout\\game_player_list_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\almubari17\\Downloads\\TheMastermind1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\game_config_main.xml",
+        "source": "C:\\Users\\almubari17\\Downloads\\TheMastermind1\\app\\src\\main\\res\\layout\\game_config_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\almubari17\\Downloads\\TheMastermind1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\game_local_tab.xml",
+        "source": "C:\\Users\\almubari17\\Downloads\\TheMastermind1\\app\\src\\main\\res\\layout\\game_local_tab.xml"
+    },
+    {
+        "merged": "P:\\TheMastermind1_almubari17_jabryant18_jfisher18\\TheMastermind1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loading.xml",
+        "source": "P:\\TheMastermind1_almubari17_jabryant18_jfisher18\\TheMastermind1\\app\\src\\main\\res\\layout\\loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaio\\Downloads\\TheMastermind20\\app\\build\\intermediates\\res\\merged\\debug\\layout\\game_player_list_row.xml",
+        "source": "C:\\Users\\vaio\\Downloads\\TheMastermind20\\app\\src\\main\\res\\layout\\game_player_list_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacob\\OneDrive\\Documents\\Sophomore\\OOD\\TheMastermindApril24\\TheMastermind20\\app\\build\\intermediates\\res\\merged\\debug\\layout\\game_local_tab.xml",
+        "source": "C:\\Users\\Jacob\\OneDrive\\Documents\\Sophomore\\OOD\\TheMastermindApril24\\TheMastermind20\\app\\src\\main\\res\\layout\\game_local_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\almubari17\\Downloads\\TheMastermind1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loading.xml",
+        "source": "C:\\Users\\almubari17\\Downloads\\TheMastermind1\\app\\src\\main\\res\\layout\\loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacob\\OneDrive\\Documents\\Sophomore\\OOD\\TheMastermindApril24\\TheMastermind20\\app\\build\\intermediates\\res\\merged\\debug\\layout\\game_player_list_row.xml",
+        "source": "C:\\Users\\Jacob\\OneDrive\\Documents\\Sophomore\\OOD\\TheMastermindApril24\\TheMastermind20\\app\\src\\main\\res\\layout\\game_player_list_row.xml"
+    },
+    {
+        "merged": "P:\\OO Design\\TheMastermind20\\app\\build\\intermediates\\res\\merged\\debug\\layout\\game_no_gui.xml",
+        "source": "P:\\OO Design\\TheMastermind20\\app\\src\\main\\res\\layout\\game_no_gui.xml"
+    },
+    {
+        "merged": "C:\\Users\\almubari17\\Downloads\\TheMastermind1_almubari17_jabryant18_jfisher18\\TheMastermind1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\coder_board.xml",
+        "source": "C:\\Users\\almubari17\\Downloads\\TheMastermind1_almubari17_jabryant18_jfisher18\\TheMastermind1\\app\\src\\main\\res\\layout\\coder_board.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaio\\Downloads\\TheMastermind1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\coder_board.xml",
+        "source": "C:\\Users\\vaio\\Downloads\\TheMastermind1\\app\\src\\main\\res\\layout\\coder_board.xml"
+    },
+    {
+        "merged": "P:\\TheMastermind1_almubari17_jabryant18_jfisher18\\TheMastermind1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\coder_board.xml",
+        "source": "P:\\TheMastermind1_almubari17_jabryant18_jfisher18\\TheMastermind1\\app\\src\\main\\res\\layout\\coder_board.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaio\\Downloads\\TheMastermindApril24New\\TheMastermindApril24New\\TheMastermind20\\app\\build\\intermediates\\res\\merged\\debug\\layout\\game_config_main.xml",
+        "source": "C:\\Users\\vaio\\Downloads\\TheMastermindApril24New\\TheMastermindApril24New\\TheMastermind20\\app\\src\\main\\res\\layout\\game_config_main.xml"
+    },
+    {
+        "merged": "P:\\TheMastermind1_almubari17_jabryant18_jfisher18\\TheMastermind1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\game_local_tab.xml",
+        "source": "P:\\TheMastermind1_almubari17_jabryant18_jfisher18\\TheMastermind1\\app\\src\\main\\res\\layout\\game_local_tab.xml"
+    },
+    {
+        "merged": "P:\\TheMastermind1_almubari17_jabryant18_jfisher18\\TheMastermind1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\decoder_board.xml",
+        "source": "P:\\TheMastermind1_almubari17_jabryant18_jfisher18\\TheMastermind1\\app\\src\\main\\res\\layout\\decoder_board.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaio\\Downloads\\TheMastermind1 Fixed (1)\\TheMastermind1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\game_remote_tab.xml",
+        "source": "C:\\Users\\vaio\\Downloads\\TheMastermind1 Fixed (1)\\TheMastermind1\\app\\src\\main\\res\\layout\\game_remote_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\almubari17\\Downloads\\TheMastermind1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\game_config_tabhost.xml",
+        "source": "C:\\Users\\almubari17\\Downloads\\TheMastermind1\\app\\src\\main\\res\\layout\\game_config_tabhost.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacob\\OneDrive\\Documents\\Sophomore\\OOD\\TheMastermindApril24\\TheMastermind20\\app\\build\\intermediates\\res\\merged\\debug\\layout\\coder_start.xml",
+        "source": "C:\\Users\\Jacob\\OneDrive\\Documents\\Sophomore\\OOD\\TheMastermindApril24\\TheMastermind20\\app\\src\\main\\res\\layout\\coder_start.xml"
+    },
+    {
+        "merged": "C:\\Users\\almubari17\\Downloads\\TheMastermind1_almubari17_jabryant18_jfisher18\\TheMastermind1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\game_local_tab.xml",
+        "source": "C:\\Users\\almubari17\\Downloads\\TheMastermind1_almubari17_jabryant18_jfisher18\\TheMastermind1\\app\\src\\main\\res\\layout\\game_local_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\almubari17\\Downloads\\TheMastermind1_almubari17_jabryant18_jfisher18\\TheMastermind1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\game_player_list_row.xml",
+        "source": "C:\\Users\\almubari17\\Downloads\\TheMastermind1_almubari17_jabryant18_jfisher18\\TheMastermind1\\app\\src\\main\\res\\layout\\game_player_list_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\almubari17\\Downloads\\TheMastermind1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\coder_board.xml",
+        "source": "C:\\Users\\almubari17\\Downloads\\TheMastermind1\\app\\src\\main\\res\\layout\\coder_board.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaio\\Downloads\\TheMastermind20\\app\\build\\intermediates\\res\\merged\\debug\\layout\\decoder_board.xml",
+        "source": "C:\\Users\\vaio\\Downloads\\TheMastermind20\\app\\src\\main\\res\\layout\\decoder_board.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamie\\CS 301\\TheMastermindApril24New\\TheMastermindApril24New\\TheMastermind20\\app\\build\\intermediates\\res\\merged\\debug\\layout\\coder_start.xml",
+        "source": "C:\\Users\\Jamie\\CS 301\\TheMastermindApril24New\\TheMastermindApril24New\\TheMastermind20\\app\\src\\main\\res\\layout\\coder_start.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaio\\Downloads\\TheMastermind1 Fixed (1)\\TheMastermind1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\game_config_tabhost.xml",
+        "source": "C:\\Users\\vaio\\Downloads\\TheMastermind1 Fixed (1)\\TheMastermind1\\app\\src\\main\\res\\layout\\game_config_tabhost.xml"
+    },
+    {
+        "merged": "C:\\Users\\almubari17\\Downloads\\TheMastermind1_almubari17_jabryant18_jfisher18\\TheMastermind1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\game_remote_tab.xml",
+        "source": "C:\\Users\\almubari17\\Downloads\\TheMastermind1_almubari17_jabryant18_jfisher18\\TheMastermind1\\app\\src\\main\\res\\layout\\game_remote_tab.xml"
+    },
+    {
+        "merged": "P:\\OO Design\\TheMastermind20\\app\\build\\intermediates\\res\\merged\\debug\\layout\\coder_start.xml",
+        "source": "P:\\OO Design\\TheMastermind20\\app\\src\\main\\res\\layout\\coder_start.xml"
+    },
+    {
+        "merged": "C:\\Users\\almubari17\\Downloads\\TheMastermind1_almubari17_jabryant18_jfisher18\\TheMastermind1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loading.xml",
+        "source": "C:\\Users\\almubari17\\Downloads\\TheMastermind1_almubari17_jabryant18_jfisher18\\TheMastermind1\\app\\src\\main\\res\\layout\\loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaio\\Downloads\\TheMastermind1 Fixed (1)\\TheMastermind1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\game_local_tab.xml",
+        "source": "C:\\Users\\vaio\\Downloads\\TheMastermind1 Fixed (1)\\TheMastermind1\\app\\src\\main\\res\\layout\\game_local_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacob\\OneDrive\\Documents\\Sophomore\\OOD\\TheMastermindApril24\\TheMastermind20\\app\\build\\intermediates\\res\\merged\\debug\\layout\\game_remote_tab.xml",
+        "source": "C:\\Users\\Jacob\\OneDrive\\Documents\\Sophomore\\OOD\\TheMastermindApril24\\TheMastermind20\\app\\src\\main\\res\\layout\\game_remote_tab.xml"
+    },
+    {
+        "merged": "P:\\OO Design\\TheMastermind20\\app\\build\\intermediates\\res\\merged\\debug\\layout\\game_local_tab.xml",
+        "source": "P:\\OO Design\\TheMastermind20\\app\\src\\main\\res\\layout\\game_local_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaio\\Downloads\\TheMastermind1 Fixed (1)\\TheMastermind1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\decoder_board.xml",
+        "source": "C:\\Users\\vaio\\Downloads\\TheMastermind1 Fixed (1)\\TheMastermind1\\app\\src\\main\\res\\layout\\decoder_board.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaio\\Downloads\\TheMastermind1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\game_config_tabhost.xml",
+        "source": "C:\\Users\\vaio\\Downloads\\TheMastermind1\\app\\src\\main\\res\\layout\\game_config_tabhost.xml"
+    },
+    {
+        "merged": "P:\\TheMastermind1_almubari17_jabryant18_jfisher18\\TheMastermind1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\game_remote_tab.xml",
+        "source": "P:\\TheMastermind1_almubari17_jabryant18_jfisher18\\TheMastermind1\\app\\src\\main\\res\\layout\\game_remote_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\almubari17\\Downloads\\TheMastermind1_almubari17_jabryant18_jfisher18\\TheMastermind1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\game_config_tabhost.xml",
+        "source": "C:\\Users\\almubari17\\Downloads\\TheMastermind1_almubari17_jabryant18_jfisher18\\TheMastermind1\\app\\src\\main\\res\\layout\\game_config_tabhost.xml"
+    },
+    {
+        "merged": "P:\\OO Design\\TheMastermind20\\app\\build\\intermediates\\res\\merged\\debug\\layout\\game_config_tabhost.xml",
+        "source": "P:\\OO Design\\TheMastermind20\\app\\src\\main\\res\\layout\\game_config_tabhost.xml"
+    },
+    {
+        "merged": "P:\\OO Design\\TheMastermind20\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loading.xml",
+        "source": "P:\\OO Design\\TheMastermind20\\app\\src\\main\\res\\layout\\loading.xml"
+    },
+    {
+        "merged": "P:\\OO Design\\TheMastermind20\\app\\build\\intermediates\\res\\merged\\debug\\layout\\game_config_main.xml",
+        "source": "P:\\OO Design\\TheMastermind20\\app\\src\\main\\res\\layout\\game_config_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaio\\Downloads\\TheMastermindApril24New\\TheMastermindApril24New\\TheMastermind20\\app\\build\\intermediates\\res\\merged\\debug\\layout\\coder_start.xml",
+        "source": "C:\\Users\\vaio\\Downloads\\TheMastermindApril24New\\TheMastermindApril24New\\TheMastermind20\\app\\src\\main\\res\\layout\\coder_start.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaio\\Downloads\\TheMastermind1 Fixed (1)\\TheMastermind1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\coder_board.xml",
+        "source": "C:\\Users\\vaio\\Downloads\\TheMastermind1 Fixed (1)\\TheMastermind1\\app\\src\\main\\res\\layout\\coder_board.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaio\\Downloads\\TheMastermind1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loading.xml",
+        "source": "C:\\Users\\vaio\\Downloads\\TheMastermind1\\app\\src\\main\\res\\layout\\loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamie\\CS 301\\TheMastermindApril24New\\TheMastermindApril24New\\TheMastermind20\\app\\build\\intermediates\\res\\merged\\debug\\layout\\game_player_list_row.xml",
+        "source": "C:\\Users\\Jamie\\CS 301\\TheMastermindApril24New\\TheMastermindApril24New\\TheMastermind20\\app\\src\\main\\res\\layout\\game_player_list_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\almubari17\\Downloads\\TheMastermind1_almubari17_jabryant18_jfisher18\\TheMastermind1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\game_config_main.xml",
+        "source": "C:\\Users\\almubari17\\Downloads\\TheMastermind1_almubari17_jabryant18_jfisher18\\TheMastermind1\\app\\src\\main\\res\\layout\\game_config_main.xml"
+    },
+    {
+        "merged": "P:\\OO Design\\TheMastermind20\\app\\build\\intermediates\\res\\merged\\debug\\layout\\decoder_board.xml",
+        "source": "P:\\OO Design\\TheMastermind20\\app\\src\\main\\res\\layout\\decoder_board.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaio\\Downloads\\TheMastermind1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\game_config_main.xml",
+        "source": "C:\\Users\\vaio\\Downloads\\TheMastermind1\\app\\src\\main\\res\\layout\\game_config_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaio\\Downloads\\TheMastermind20\\app\\build\\intermediates\\res\\merged\\debug\\layout\\game_config_main.xml",
+        "source": "C:\\Users\\vaio\\Downloads\\TheMastermind20\\app\\src\\main\\res\\layout\\game_config_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\almubari17\\Downloads\\TheMastermind1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\game_player_list_row.xml",
+        "source": "C:\\Users\\almubari17\\Downloads\\TheMastermind1\\app\\src\\main\\res\\layout\\game_player_list_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\almubari17\\Downloads\\TheMastermind1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\game_remote_tab.xml",
+        "source": "C:\\Users\\almubari17\\Downloads\\TheMastermind1\\app\\src\\main\\res\\layout\\game_remote_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaio\\Downloads\\TheMastermind1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\game_local_tab.xml",
+        "source": "C:\\Users\\vaio\\Downloads\\TheMastermind1\\app\\src\\main\\res\\layout\\game_local_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaio\\Downloads\\TheMastermind20\\app\\build\\intermediates\\res\\merged\\debug\\layout\\coder_start.xml",
+        "source": "C:\\Users\\vaio\\Downloads\\TheMastermind20\\app\\src\\main\\res\\layout\\coder_start.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamie\\CS 301\\TheMastermindApril24New\\TheMastermindApril24New\\TheMastermind20\\app\\build\\intermediates\\res\\merged\\debug\\layout\\game_config_main.xml",
+        "source": "C:\\Users\\Jamie\\CS 301\\TheMastermindApril24New\\TheMastermindApril24New\\TheMastermind20\\app\\src\\main\\res\\layout\\game_config_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\almubari17\\Downloads\\TheMastermind1_almubari17_jabryant18_jfisher18\\TheMastermind1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\game_no_gui.xml",
+        "source": "C:\\Users\\almubari17\\Downloads\\TheMastermind1_almubari17_jabryant18_jfisher18\\TheMastermind1\\app\\src\\main\\res\\layout\\game_no_gui.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaio\\Downloads\\TheMastermind1 Fixed (1)\\TheMastermind1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loading.xml",
+        "source": "C:\\Users\\vaio\\Downloads\\TheMastermind1 Fixed (1)\\TheMastermind1\\app\\src\\main\\res\\layout\\loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacob\\OneDrive\\Documents\\Sophomore\\OOD\\TheMastermindApril24\\TheMastermind20\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loading.xml",
+        "source": "C:\\Users\\Jacob\\OneDrive\\Documents\\Sophomore\\OOD\\TheMastermindApril24\\TheMastermind20\\app\\src\\main\\res\\layout\\loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaio\\Downloads\\TheMastermind1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\game_no_gui.xml",
+        "source": "C:\\Users\\vaio\\Downloads\\TheMastermind1\\app\\src\\main\\res\\layout\\game_no_gui.xml"
+    },
+    {
+        "merged": "P:\\TheMastermind1_almubari17_jabryant18_jfisher18\\TheMastermind1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\game_no_gui.xml",
+        "source": "P:\\TheMastermind1_almubari17_jabryant18_jfisher18\\TheMastermind1\\app\\src\\main\\res\\layout\\game_no_gui.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaio\\Downloads\\TheMastermindApril24New\\TheMastermindApril24New\\TheMastermind20\\app\\build\\intermediates\\res\\merged\\debug\\layout\\game_no_gui.xml",
+        "source": "C:\\Users\\vaio\\Downloads\\TheMastermindApril24New\\TheMastermindApril24New\\TheMastermind20\\app\\src\\main\\res\\layout\\game_no_gui.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamie\\CS 301\\TheMastermindApril24New\\TheMastermindApril24New\\TheMastermind20\\app\\build\\intermediates\\res\\merged\\debug\\layout\\game_remote_tab.xml",
+        "source": "C:\\Users\\Jamie\\CS 301\\TheMastermindApril24New\\TheMastermindApril24New\\TheMastermind20\\app\\src\\main\\res\\layout\\game_remote_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jamie\\CS 301\\TheMastermindApril24New\\TheMastermindApril24New\\TheMastermind20\\app\\build\\intermediates\\res\\merged\\debug\\layout\\decoder_board.xml",
+        "source": "C:\\Users\\Jamie\\CS 301\\TheMastermindApril24New\\TheMastermindApril24New\\TheMastermind20\\app\\src\\main\\res\\layout\\decoder_board.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaio\\Downloads\\TheMastermindApril24New\\TheMastermindApril24New\\TheMastermind20\\app\\build\\intermediates\\res\\merged\\debug\\layout\\game_config_tabhost.xml",
+        "source": "C:\\Users\\vaio\\Downloads\\TheMastermindApril24New\\TheMastermindApril24New\\TheMastermind20\\app\\src\\main\\res\\layout\\game_config_tabhost.xml"
+    },
+    {
+        "merged": "C:\\Users\\almubari17\\Downloads\\TheMastermind1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\game_no_gui.xml",
+        "source": "C:\\Users\\almubari17\\Downloads\\TheMastermind1\\app\\src\\main\\res\\layout\\game_no_gui.xml"
+    },
+    {
+        "merged": "P:\\TheMastermind1_almubari17_jabryant18_jfisher18\\TheMastermind1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\game_config_main.xml",
+        "source": "P:\\TheMastermind1_almubari17_jabryant18_jfisher18\\TheMastermind1\\app\\src\\main\\res\\layout\\game_config_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\almubari17\\Downloads\\TheMastermind1_almubari17_jabryant18_jfisher18\\TheMastermind1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\coder_start.xml",
+        "source": "C:\\Users\\almubari17\\Downloads\\TheMastermind1_almubari17_jabryant18_jfisher18\\TheMastermind1\\app\\src\\main\\res\\layout\\coder_start.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaio\\Downloads\\TheMastermind20\\app\\build\\intermediates\\res\\merged\\debug\\layout\\game_local_tab.xml",
+        "source": "C:\\Users\\vaio\\Downloads\\TheMastermind20\\app\\src\\main\\res\\layout\\game_local_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacob\\OneDrive\\Documents\\Sophomore\\OOD\\TheMastermindApril24\\TheMastermind20\\app\\build\\intermediates\\res\\merged\\debug\\layout\\game_config_tabhost.xml",
+        "source": "C:\\Users\\Jacob\\OneDrive\\Documents\\Sophomore\\OOD\\TheMastermindApril24\\TheMastermind20\\app\\src\\main\\res\\layout\\game_config_tabhost.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacob\\OneDrive\\Documents\\Sophomore\\OOD\\TheMastermindApril24\\TheMastermind20\\app\\build\\intermediates\\res\\merged\\debug\\layout\\coder_board.xml",
+        "source": "C:\\Users\\Jacob\\OneDrive\\Documents\\Sophomore\\OOD\\TheMastermindApril24\\TheMastermind20\\app\\src\\main\\res\\layout\\coder_board.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jacob\\OneDrive\\Documents\\Sophomore\\OOD\\TheMastermindApril24\\TheMastermind20\\app\\build\\intermediates\\res\\merged\\debug\\layout\\decoder_board.xml",
+        "source": "C:\\Users\\Jacob\\OneDrive\\Documents\\Sophomore\\OOD\\TheMastermindApril24\\TheMastermind20\\app\\src\\main\\res\\layout\\decoder_board.xml"
+    },
+    {
+        "merged": "P:\\TheMastermind1_almubari17_jabryant18_jfisher18\\TheMastermind1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\coder_start.xml",
+        "source": "P:\\TheMastermind1_almubari17_jabryant18_jfisher18\\TheMastermind1\\app\\src\\main\\res\\layout\\coder_start.xml"
+    },
+    {
+        "merged": "P:\\OO Design\\TheMastermind20\\app\\build\\intermediates\\res\\merged\\debug\\layout\\game_player_list_row.xml",
+        "source": "P:\\OO Design\\TheMastermind20\\app\\src\\main\\res\\layout\\game_player_list_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaio\\Downloads\\TheMastermind1 Fixed (1)\\TheMastermind1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\game_player_list_row.xml",
+        "source": "C:\\Users\\vaio\\Downloads\\TheMastermind1 Fixed (1)\\TheMastermind1\\app\\src\\main\\res\\layout\\game_player_list_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaio\\Downloads\\TheMastermind1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\coder_start.xml",
+        "source": "C:\\Users\\vaio\\Downloads\\TheMastermind1\\app\\src\\main\\res\\layout\\coder_start.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaio\\Downloads\\TheMastermindApril24New\\TheMastermindApril24New\\TheMastermind20\\app\\build\\intermediates\\res\\merged\\debug\\layout\\game_player_list_row.xml",
+        "source": "C:\\Users\\vaio\\Downloads\\TheMastermindApril24New\\TheMastermindApril24New\\TheMastermind20\\app\\src\\main\\res\\layout\\game_player_list_row.xml"
+    }
+]
